@@ -8,3 +8,5 @@ export AWS_REGION=us-east-1
 export AWS_PROFILE=default
 export JWT_SECRET=testing
 export URL=http://localhost:8100
+export DOCKER_USERNAME=kamse05990
+export DOCKER_PASSWORD=ZU!diRYJd=s2h@y
